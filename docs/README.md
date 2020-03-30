@@ -1,3 +1,8 @@
-# Headline
+# 学习笔记
 
-> An awesome project.
+> todos
+
+- [ ] redux-thunk
+- [ ] redux-saga
+- [ ] different of redux-thunk and redux-saga
+- [ ] ...
