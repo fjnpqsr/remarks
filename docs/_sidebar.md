@@ -1,10 +1,8 @@
-
-
 - React
-
-    - [test](react/test.md)
+  - [life-cycle](react/life-cycle.md)
+  - [React.Component](react/component.md)
 
 - 状态管理(redux相关)
 
-    - [react](redux/redux.md)
-    - [react-redux](redux/react-redux.md)
+  - [react](redux/redux.md)
+  - [react-redux](redux/react-redux.md)
