@@ -4,7 +4,7 @@
   "description": "> An awesome project.",
   "main": "index.js",
   "scripts": {
-    "start": "docsify serve docs --o=true --p=8884"
+    "start": "docsify serve docs --o=true --p=8886"
   },
   "author": "",
   "license": "ISC"

@@ -3,6 +3,8 @@
   - [React.Component](react/component.md)
 
 - 状态管理(redux相关)
-  - [compose](redux/compose.md)
+  
   - [redux](redux/redux.md)
+    - [applyMiddleware](redux/middlewares.md)
+    - [compose](redux/compose.md)
   - [react-redux](redux/react-redux.md)
