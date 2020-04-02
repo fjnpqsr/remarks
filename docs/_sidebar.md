@@ -8,3 +8,6 @@
     - [applyMiddleware](redux/middlewares.md)
     - [compose](redux/compose.md)
   - [react-redux](redux/react-redux.md)
+  - [redux-saga](redux-saga/redux-saga.md)
+- es6
+  - [generator](es6/generator.md)
