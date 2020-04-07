@@ -18,4 +18,5 @@ function* helloWorldGenerator() {
 var hw = helloWorldGenerator();
 
 ```
+
 每一次调用`hw.next()`方法, `generator`函数都会执行值下一个`yield`出现的地方, 就会返回一个有着value和done两个属性的对象。value属性表示当前的内部状态的值，是yield表达式后面那个表达式的值；done属性是一个布尔值，表示是否遍历结束。
