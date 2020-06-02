@@ -1,4 +1,4 @@
-# React ^16.8
+# React ^16.8's lifecycle
 
 ## life-cycle
 

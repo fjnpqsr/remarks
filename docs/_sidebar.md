@@ -1,5 +1,5 @@
 - React
-  - [life-cycle](react/life-cycle.md)
+  - [new lifecycle](react/life-cycle.md)
   - [React.Component](react/component.md)
   - [Hooks](react/hooks.md)
 
